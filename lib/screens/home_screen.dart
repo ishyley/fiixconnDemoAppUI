@@ -31,7 +31,7 @@ class _HomeScreenState extends State<HomeScreen> {
     const Center(
       child: Text(resources.AppStrings.message),
     ),
-    const UserhomeScreen(),
+    UserhomeScreen(),
     const Center(
       child: Text(resources.AppStrings.notification),
     ),
